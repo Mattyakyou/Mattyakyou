@@ -1,6 +1,6 @@
 ## Hi there 👋
 ArcaeaとRotaenoのデータ入力しています(.json)。Pythonがメイン
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,c,csharp,json,postgresql,mysql)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,csharp,json,postgresql,mysql)](https://github.com/Jurredr/github-widgetbox)
 
 <!--
 **Mattyakyou/Mattyakyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
