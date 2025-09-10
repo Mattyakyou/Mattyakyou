@@ -1,4 +1,5 @@
 ## Hi there 👋
+ArcaeaとRotaenoのデータ入力しています(.json)。Pythonがメイン
 
 <!--
 **Mattyakyou/Mattyakyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
